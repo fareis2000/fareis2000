@@ -12,5 +12,4 @@
 
 ![FABIO GitHub stats](https://github-readme-stats.vercel.app/api?username=fareis2000&show_icons=true&theme=dracula&count_private=true)
 
-![Snake animation](https://github.com/fareis2000/fareis2000/blob/output/github-contribution-grid-snake.svg)
 
