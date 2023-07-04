@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá! Eu sou o Fabio Cesar Reis
 
-<!--
-**fareis2000/fareis2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fabioreis2000)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
-Here are some ideas to get you started:
+- 🔭 Estou atualmente trabalhando como estagiario do SESI
+- 🌱 Estou aprofundando meus conhecimento em python
+- 🤔 Procuro ajuda em python
+- 💬 Me pergunte alguma coisa!!!
+- 📫 fareis2000@hotmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![FABIO GitHub stats](https://github-readme-stats.vercel.app/api?username=fareis2000&show_icons=true&theme=dracula&count_private=true)
+
