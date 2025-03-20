@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fabioreis2000)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
-- 🔭 Estou atualmente trabalhando como estagiario do SESI
+- 🔭 Estou atualmente trabalhando como Professor em Mynds Tech School
 - 🌱 Estou aprofundando meus conhecimento em python
 - 🤔 Procuro ajuda em python
 - 💬 Me pergunte alguma coisa!!!
