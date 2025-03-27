@@ -28,9 +28,8 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/fareis2000/fareis2000/output/snake.svg" alt="Snake animation" />
 
-###
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fareis2000&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Fabio Reis stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fareis2000&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
