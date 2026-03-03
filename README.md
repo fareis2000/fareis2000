@@ -15,7 +15,7 @@
 
 ## 🚀 Most Used Languages
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fareis2000&theme=tokyonight" />
 </p>
 <div align="left">
