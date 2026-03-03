@@ -13,7 +13,7 @@
 [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/fabio-cesar-reis-carvalho-845a0189/)
 [![Outlook](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg)](mailto:fareis2000@hotmail.com)
 
-<img src="https://github-readme-stats.vercel.app/api?username=fareis2000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
