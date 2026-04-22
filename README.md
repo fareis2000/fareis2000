@@ -10,7 +10,7 @@
 - 💬 Me pergunte alguma coisa!!!
 
 
-[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/fabio-cesar-reis-carvalho-845a0189/)
+[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)]([https://www.linkedin.com/in/fabio-cesar-reis-carvalho-845a0189/](https://www.linkedin.com/in/fabio-cesar-845a0189/))
 [![Outlook](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg)](mailto:fareis2000@hotmail.com)
 
 ## 🚀 Most Used Languages
