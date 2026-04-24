@@ -4,10 +4,10 @@
 
 
 
-- 🔭 Estou atualmente trabalhando como Professor em Mynds Tech School
-- 🌱 Estou aprofundando meus conhecimento em python
-- 🤔 Procuro ajuda em python
-- 💬 Me pergunte alguma coisa!!!
+ - 🔭 I'm working as a Teacher at Mynds Tech School
+ - 🌱 I'm deepening my knowledge of Python
+ - 🤔 Looking for help with Python
+ - 💬 Ask me something!!!
 
 
 [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)]([https://www.linkedin.com/in/fabio-cesar-reis-carvalho-845a0189/]([https://www.linkedin.com/in/fabio-cesar-845a0189/](https://www.linkedin.com/in/fabio-cesar-845a0189/)))
