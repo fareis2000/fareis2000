@@ -8,8 +8,7 @@ Sou estudante de **Ciência da Computação** e atuo profissionalmente como **In
 
 ## 🔭 O que estou fazendo no momento
 - 🤖 Ensinando robótica e eletrônica na **Mynds Tech School**.
-- 🥽 Desenvolvendo o **GeoAR**, uma plataforma web em React para serviços de realidade aumentada geoespacial.
-- 🥘 Criando um **App de Realidade Virtual** para restaurantes focado em escaneamento 3D de pratos.
+- 🥽 Desenvolvendo o **MixDrink**, um robo preparador de drinks autonomos.
 - ⚙️ Projetando sistemas embarcados e IoT, como pulseiras de segurança utilizando microcontroladores, Wi-Fi e GPS.
 - 🐍 Escrevendo scripts de automação em Python (desde limpeza de assets no Blender até lógicas avançadas).
 
